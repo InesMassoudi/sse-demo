@@ -96,8 +96,6 @@ startConnectedUsers	user_activity Every 7 seconds	Join/leave events
 ## Quick Start
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/sse-demo
 
 # Navigate to project
 cd sse-demo
